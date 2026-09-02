@@ -1,30 +1,37 @@
-<!-- Üst Dalgalı Banner -->
+<!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=200&section=header&text=Yiğit%20Acarlı&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=200&section=header&text=Yiğit%20Acarlı&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
-  <!-- Daktilo / Animasyonlu Başlık -->
+  <!-- Dynamic Typing Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Bilgisayar+M%C3%BChendisi+%7C+Computer+Engineer;Aspiring+.NET+%26+C%23+Backend+Developer;Exploring+Corporate+Architectures+%26+React;Continuous+Learner+%26+Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=550&lines=Computer+Engineering+Graduate;Junior+Software+Developer;Exploring+.NET+%26+C%23+Backend+Ecosystem;Learning+Modern+Web+Dev+with+React;Problem+Solver+%26+Continuous+Learner" alt="Typing SVG" />
   </a>
 </div>
 
----
+<div align="center">
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=yigitacarli&color=7aa2f7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
-### 👨‍💻 Hakkımda | About Me
-
-- 🎓 **Bilgisayar Mühendisliği** yeni mezunuyum.
-- 🎯 Kurumsal **.NET / C# Backend** ekosistemi ve modern web teknolojileri (**React**) üzerine odaklanıyorum.
-- 💻 Temel **C, Java ve Python** altyapım ile temiz kod (Clean Code), SOLID prensipleri ve ölçeklenebilir backend mimarilerini öğrenip uyguluyorum.
-- 🌱 Güncel teknolojileri keşfetmeye, proje geliştirmeye ve açık kaynak dünyasına katkı sunmaya her zaman açığım.
+<br />
 
 ---
 
-### 🛠️ Teknolojiler & Beceriler | Tech Stack
+### 👨‍💻 About Me
+
+- 🎓 **Computer Engineering graduate** with a solid foundation in computer science and algorithms.
+- 💻 Built academic and personal projects using **C, Java, and Python**.
+- 🚀 Currently focusing on **.NET / C# backend development** and learning **React** for modern full-stack workflows.
+- 🎯 Eager to apply software design patterns, Clean Code, and SOLID principles to real-world applications.
+- 🌱 Actively looking for **Junior Software Engineer** opportunities, internships, and open-source collaborations.
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <!-- Backend & Diller & Araçlar -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,c,react,js,ts,postgres,mysql,docker,git,github,vscode,visualstudio" />
   </a>
@@ -32,37 +39,25 @@
 
 ---
 
-### 📊 GitHub İstatistikleri & Aktiviteler
+### 📊 GitHub Activity & Statistics
 
 <div align="center">
-  <!-- Genel İstatistikler & En Çok Kullanılan Diller -->
-  <a href="https://github.com/yigitacarli">
-    <img src="https://github-readme-stats.vercel.app/api?username=yigitacarli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="Yiğit's GitHub Stats" />
-  </a>
-  <a href="https://github.com/yigitacarli">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitacarli&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-  </a>
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=yigitacarli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yigitacarli&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <!-- Kodlama Serisi (Streak) -->
-  <a href="https://github.com/yigitacarli">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yigitacarli&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <!-- Kupalar & Başarılar -->
-  <img src="https://github-profile-trophy.vercel.app/?username=yigitacarli&theme=tokyonight&no-frame=true&column=4" alt="Trophy" />
+  <!-- Contribution Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=yigitacarli&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 📬 İletişim | Connect with Me
+### 📬 Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yigitacarli" target="_blank">
