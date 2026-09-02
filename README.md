@@ -19,17 +19,17 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 **Computer Engineering graduate** with a solid foundation in computer science and algorithms.
-- 💻 Built academic and personal projects using **C, Java, and Python**.
-- 🚀 Currently focusing on **.NET / C# backend development** and learning **React** for modern full-stack workflows.
-- 🎯 Eager to apply software design patterns, Clean Code, and SOLID principles to real-world applications.
-- 🌱 Actively looking for **Junior Software Engineer** opportunities, internships, and open-source collaborations.
+- Computer Engineering graduate with a solid foundation in software development, data structures, and algorithms.
+- Built academic and practical projects utilizing C, Java, and Python.
+- Currently focusing on the .NET / C# backend ecosystem while exploring React for full-stack workflows.
+- Interested in software design patterns, Clean Code, and building robust, scalable services.
+- Actively seeking Junior Software Engineer opportunities, internships, and collaborative open-source projects.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -39,7 +39,7 @@
 
 ---
 
-### 📊 GitHub Activity & Statistics
+### GitHub Activity & Statistics
 
 <div align="center">
   <!-- GitHub Overall Stats -->
@@ -57,7 +57,7 @@
 
 ---
 
-### 📬 Connect with Me
+### Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yigitacarli" target="_blank">
