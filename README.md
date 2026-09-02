@@ -10,11 +10,6 @@
   </a>
 </div>
 
-<div align="center">
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=yigitacarli&color=7aa2f7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-
 <br />
 
 ---
